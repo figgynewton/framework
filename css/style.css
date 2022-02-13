@@ -1,0 +1,15 @@
+.carousel-item{
+    margin: 0 auto;
+}
+.carousel-caption{
+    color: black;
+}
+
+.carousel-control-next,
+.carousel-control-prev /*, .carousel-indicators */ {
+    filter: invert();
+}
+
+.carousel-indicators{
+    filter: invert();
+}
